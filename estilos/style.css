@@ -15,3 +15,27 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(16, 196, 219);
 }
+
+h1 {
+    font-size: 2em;
+    color: rgb(9, 9, 78);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(51, 194, 16);
+}
+
+img.lado {
+    float: right;
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(247, 4, 4);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(255, 5, 122);
+}
